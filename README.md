@@ -30,24 +30,5 @@ https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/ja
 ResultDialog.java -> This custom dialog class displays a result message in a dialog box. It allows the user to restart the game when they click the "Start Again".
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/ResultDialog.java
 
-# App Overview
-### First, it asks players to enter their names. After they put their name, they can start the game by clicking on the "Start The Game" button.
-<p along="left">
-  <a href="file:///C:/Users/paniw/Desktop/First.png">
-  <img src="file:///C:/Users/paniw/Desktop/First.png" alt="Image Description">
-</a>
-
-### Next they will see the game section of the app where they can start playing their game. 
-<p along="left">
-  <a href="file:///C:/Users/paniw/Desktop/Second.png">
-  <img src="file:///C:/Users/paniw/Desktop/Second.png" alt="Image Description">
-</a>
-
-### Once the game finishes, they will see the result and they can start the game again by clicking on the "Start Again" button.
-<p along="left">
-  <a href="file:///C:/Users/paniw/Desktop/Third.png">
-  <img src="file:///C:/Users/paniw/Desktop/Third.png" alt="Image Description">
-</a>
-
 # Language and Tools
 <img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
