@@ -30,8 +30,16 @@ ResultDialog.java -> This custom dialog class displays a result message in a dia
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/ResultDialog.java
 
 # App Overview
-### First, it asks players to enter their names. After they put their name, they can start the game by clicking on the "Start The Game" button.
+
+### First, it asks players to enter their names. After they enter their names, they can start the game by clicking the "Start The Game" button.
 <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/3cc07a9c-52a6-4dcb-b915-53694ee7a22d.png" width="90" height="200">
+
+### Next, they will see the game section of the app where they can begin playing.
+<img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/29e11811-120c-4616-bead-e52659d3a58f.png" width="90" height="200">
+
+### Once the game finishes, they will see the results, and they can start a new game by clicking the "Start Again" button.
+<img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/cd7b1791-ec97-459d-8cef-633fdd8f0f27.png" width="90" height="200">
+
 
 
 # Language and Tools
