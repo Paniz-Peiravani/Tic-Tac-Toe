@@ -30,7 +30,8 @@ ResultDialog.java -> This custom dialog class displays a result message in a dia
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/ResultDialog.java
 
 check
-![FirstPage](https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/3cc07a9c-52a6-4dcb-b915-53694ee7a22d.png)
+<img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/3cc07a9c-52a6-4dcb-b915-53694ee7a22d.png" width="50" height="80">
+
 
 # Language and Tools
 <img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
