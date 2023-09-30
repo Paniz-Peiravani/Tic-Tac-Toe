@@ -39,4 +39,4 @@ Once the game finishes, they will see the results, and they can start a new game
 <br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/cd7b1791-ec97-459d-8cef-633fdd8f0f27.png" width="100" height="210">
 
 # Language and Tools
-<img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="110" height="110"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="100" height="100">
