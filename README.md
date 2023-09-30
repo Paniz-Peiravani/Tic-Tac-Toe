@@ -29,13 +29,13 @@ https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com
 
 # App Overview
 
-<br /> First, it asks players to enter their names. After they enter their names, they can start the game by clicking the "Start The Game" button. <br />
+First, it asks players to enter their names. After they enter their names, they can start the game by clicking the "Start The Game" button. <br />
 <br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/3cc07a9c-52a6-4dcb-b915-53694ee7a22d.png" width="100" height="210">
 
-<br /> Next, they will see the game section of the app where they can begin playing. <br />
+Next, they will see the game section of the app where they can begin playing. <br />
 <br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/29e11811-120c-4616-bead-e52659d3a58f.png" width="100" height="210">
 
-<br /> Once the game finishes, they will see the results, and they can start a new game by clicking the "Start Again" button. <br />
+Once the game finishes, they will see the results, and they can start a new game by clicking the "Start Again" button. <br />
 <br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/cd7b1791-ec97-459d-8cef-633fdd8f0f27.png" width="100" height="210">
 
 # Language and Tools
