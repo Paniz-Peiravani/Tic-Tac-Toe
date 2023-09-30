@@ -22,7 +22,7 @@ AddPlayers.java -> This class allows users to input the names of two players bef
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/AddPlayers.java
 
 MainActivity.java -> This class defines the logic for a Tic-Tac-Toe game. It manages winning combinations, player turns, and game results. <br />
-https://chat.openai.com/c/2648c4da-e130-492f-b7a8-8f511455eb48
+https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/MainActivity.java
 
 ResultDialog.java -> This custom dialog class displays a result message in a dialog box. It allows the user to restart the game when they click the "Start Again". <br />
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/ResultDialog.java
