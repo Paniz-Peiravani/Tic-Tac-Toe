@@ -38,7 +38,7 @@ https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com
 <br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/29e11811-120c-4616-bead-e52659d3a58f.png" width="90" height="200">
 
 <br /> Once the game finishes, they will see the results, and they can start a new game by clicking the "Start Again" button. <br />
-<br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/cd7b1791-ec97-459d-8cef-633fdd8f0f27.png" width="110" height="220">
+<br /> <img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/cd7b1791-ec97-459d-8cef-633fdd8f0f27.png" width="1080" height="2340">
 
 # Language and Tools
 <img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="60" height="60"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
