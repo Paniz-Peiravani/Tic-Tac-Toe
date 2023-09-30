@@ -29,8 +29,9 @@ https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/ja
 ResultDialog.java -> This custom dialog class displays a result message in a dialog box. It allows the user to restart the game when they click the "Start Again".
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/java/com/example/tictactoe/ResultDialog.java
 
-check
-<img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/3cc07a9c-52a6-4dcb-b915-53694ee7a22d.png" width="50" height="80">
+# App Overview
+### First, it asks players to enter their names. After they put their name, they can start the game by clicking on the "Start The Game" button.
+<img src="https://github.com/Paniz-Peiravani/Tic-Tac-Toe/assets/100456553/3cc07a9c-52a6-4dcb-b915-53694ee7a22d.png" width="90" height="200">
 
 
 # Language and Tools
