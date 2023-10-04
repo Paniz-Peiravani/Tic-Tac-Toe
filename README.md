@@ -5,7 +5,7 @@ Tic-tac-toe, also known as Xs and Os, is a classic two-player game where partici
 # Android Studio
 ## .xml sections
 ### Jump on to xml sections in Android Studio for app design: <br />
-
+ 
 activity_add_players.xml -> which is the design for the first page when a user opens the app. <br />
 https://github.com/Paniz-Peiravani/Tic-Tac-Toe/blob/master/app/src/main/res/layout/activity_add_players.xml
 
